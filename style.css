@@ -2,3 +2,9 @@ body {
 
     background-color: rgb(24, 133, 60);
 }
+
+h1 {
+    font-size: 100px;
+    color: aqua;
+    text-transform: uppercase;
+}
